@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebVokzal", "WebVokzal\WebVokzal.csproj", "{FF9ED299-37AF-40DB-8B25-052966FFECC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfVokzal", "WpfVokzal\WpfVokzal.csproj", "{B21DC98C-AC45-4F03-AC72-FEFDA277C3A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF9ED299-37AF-40DB-8B25-052966FFECC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF9ED299-37AF-40DB-8B25-052966FFECC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF9ED299-37AF-40DB-8B25-052966FFECC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF9ED299-37AF-40DB-8B25-052966FFECC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B21DC98C-AC45-4F03-AC72-FEFDA277C3A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B21DC98C-AC45-4F03-AC72-FEFDA277C3A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B21DC98C-AC45-4F03-AC72-FEFDA277C3A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B21DC98C-AC45-4F03-AC72-FEFDA277C3A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61A6889A-A172-43AE-9931-1AF8544CC37A}
+	EndGlobalSection
+EndGlobal
